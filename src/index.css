@@ -1,0 +1,23 @@
+body{
+    background-color: #202020;
+    color: rgb(55, 5, 55);
+}
+
+h1,h2,h3{
+    margin: 0;
+}
+
+button{
+    background-color: aliceblue;
+    border: 1px solid #202020;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+input{
+    height: 20px;
+    border: none;
+    background-color: aliceblue;
+    border: 1px solid #202020;
+    border-radius: 5px;
+}

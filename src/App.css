@@ -1,0 +1,48 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.card h1,
+h2,
+h3 {
+  align-self: center;
+}
+
+.formula {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
+}
+
+.calculadora{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.calc-form{
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    gap: 5px;
+}
+
+.input-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-container label{
+    margin: 0 auto;
+}
+
+.tarjeta{
+    background-color: whitesmoke;
+    padding: 20px;
+    width: 500px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
